@@ -1,2 +1,2 @@
 # calculator-app
-An Simple Calculator App developed by Hudson and Maycon
+An Simple Calculator App developed by Maycon and Hudson.
